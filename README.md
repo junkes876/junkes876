@@ -1,4 +1,5 @@
-## Hi there 👋
+# Olá, me chamo Junkes !
+## Bem vindo ao meu perfil GitHub 👋
 
 <!--
 **junkes876/junkes876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
